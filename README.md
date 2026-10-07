@@ -10,7 +10,7 @@ Analisis data historis e-commerce untuk mengevaluasi hubungan ketepatan waktu pe
 2. Tondi Sudaryo
 3. Emmy Jacklyn Pontoan
 
-**[Buka notebook lengkap](<Final_Project_Alpha_.ipynb>)**
+**[Buka notebook lengkap](<Final_Project_Alpha_JCBDAAH-006.ipynb>)**
 
 ## Ringkasan Proyek
 
